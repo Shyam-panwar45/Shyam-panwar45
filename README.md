@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNxNXAybjJ1cjExMmVjYzM5cWdldXRiMngwN2ppeHg1NXZpYTQ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 About Me
 
-🌱 I'm currently expanding my skills in Frontend Development
-👯 I'm looking to collaborate on Robotics & Automation projects
-🚀 I'm passionate about building interactive web experiences
-📫 Reach me at: shyampawar898@gmail.com
-⚡ Fun fact: I love solving complex problems and enjoy outdoor adventures
+🌱 I'm currently expanding my skills in Frontend Development <br/>
+👯 I'm looking to collaborate on Robotics & Automation projects <br/>
+🚀 I'm passionate about building interactive web experiences <br/>
+📫 Reach me at: shyampawar898@gmail.com <br/>
+⚡ Fun fact: I love solving complex problems and enjoy outdoor adventures <br/>
 
 🛠️ Tech Stack
 javascriptconst skills = {
