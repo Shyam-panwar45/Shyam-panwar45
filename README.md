@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Robotics+%26+Automation+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </div>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNxNXAybjJ1cjExMmVjYzM5cWdldXRiMngwN2ppeHg1NXZpYTQ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-About Me
+ABOUT ME
 
 🌱 I'm currently expanding my skills in Frontend Development <br/>
 👯 I'm looking to collaborate on Robotics & Automation projects <br/>
@@ -11,27 +11,44 @@ About Me
 📫 Reach me at: shyampawar898@gmail.com <br/>
 ⚡ Fun fact: I love solving complex problems and enjoy outdoor adventures <br/>
 
-🛠️ Tech Stack
-javascriptconst skills = {
-  languages: ["JavaScript", "Python", "C++", "C"],
-  frontend: ["HTML", "CSS", "React", "Redux"],
-  backend: ["Node.js", "Express"],
-  database: ["MongoDB"],
-  tools: ["Git", "GitHub", "VS Code", "Figma"],
-  currently_learning: ["TypeScript", "NextJS", "UI/UX Design"]
-};
-📊 GitHub Stats
+🛠️  TECHNICAL SKILLS <br/>
+Programming Languages: C++, Python, JavaScript  <br/>
+Data Structures & Algorithms: DSA with C++ <br/>
+AI & Machine Learning: Pandas,TensorFlow , Scikit-learn  <br/>
+Web Development: HTML, CSS, JavaScript  <br/>
+Tools & Platforms: Git, GitHub, ROS  <br/>
+
+📊 GITHUB STATS
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shyam-panwar45&show_icons=true&theme=prussian" alt="Shyam's GitHub stats" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-panwar45&theme=prussian" alt="Shyam's GitHub streak" />
 </div>
-🌟 Featured Projects
+🌟 PROJECTS
+ <br/>
+ BENGALURU HOUSE PRICE PREDICTION <br/>
+- Used Pandas, NumPy, Scikit-learn to clean data and build a regression model. <br/>
+- Achieved 85% accuracy using Linear Regression & Random Forest. <br/>
+- Tools: Jupyter Notebook, Python. <br/>
+<br/>
+E-COMMERCE WEBSITE <br/>
+Developed the complete frontend of an e-commerce website featuring product listings, product detail pages, shopping cart interface, and user-friendly navigation.. <br/>
+Link- https://github.com/Shyam-panwar45/E-Commerce.<br/>
 
-E-Commerce Website - A full-stack e-commerce platform with product browsing, cart functionality, and payment integration
-Task Management App - A React-based application for organizing daily tasks and boosting productivity
-Weather Dashboard - An interactive weather application providing real-time weather updates
+MY PORTFOLIO <br/>
+Designed and built a personal portfolio page using HTML & CSS. <br/>
+Link- https://github.com/Shyam-panwar45/my-portfolio <br/>
+
+RESEARCH & DEVELOPMENT<br/>
+AI-Driven Shape-Shifting Robot<br/>
+Conducted research on AI-powered robotics enabling real-time shape transformation using adaptive algorithms and deep learning models for intelligent decision-making and optimized performance in dynamic environments..<br/>
+Expected Publication :September/October.<br/>
+
+ACHIEVEMENTS<br/>
+Won Best Paper Award for presenting a research paper entitled "AI-Driven Shape-Shifting Robotics: The Dawn of Intelligent Morphological Evolution" in a international conference on Interactive Design And Digital Manufacturing (ICIDDM 2K25) held at, SRM Institute of Science & Technology Tiruchirappalli.<br/>
+Silver medalist in Mathematics Olympiad (MOF).<br/>
+Bronze medalist in Science Olympiad (SOF).
 
 📫 Let's Connect
 <div align="center">
